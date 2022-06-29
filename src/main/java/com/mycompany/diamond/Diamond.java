@@ -44,6 +44,7 @@ for (i = 1; i<= 2 * (n - j) - 1; i++)
 {
 System.out.print("*");
 }
+System.out.println("Group members");
 System.out.println("Jitinloyalist");
 System.out.println("Mahesh");
 System.out.println("ashaKiran");
