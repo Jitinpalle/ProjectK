@@ -44,7 +44,7 @@ for (i = 1; i<= 2 * (n - j) - 1; i++)
 {
 System.out.print("*");
 }
-System.out.println("Jitinpalle");
+System.out.println("Jitin");
 }
 }
 }
